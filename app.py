@@ -1,6 +1,6 @@
 # app.py
 
-a = 8
+a = 6
 b = 4
 
 def add(x, y):
